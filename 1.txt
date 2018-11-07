@@ -1,0 +1,22 @@
+2018/11/16日报
+今日总结：
+今天讲了：
+git操作方式：
+1.命令式
+                git int 项目初始化会产生一个文件.git为隐藏文件
+                git stauts 状态 
+	git add 添加 git add . 添加所有  git add 单个文件
+	git commmit 提交 暂存区
+	git commmit-m"" 注释
+	git config --global user.email "邮箱"
+	git config --global user.name "用户名"
+	git remote add origin https://github.com/18838226418/aaa.git 链接远程仓库
+	git push -u origin master 将本地的master分支推送到origin主机的master上分支上
+2.可视化工具 sourcetree
+
+git存在三个区间
+本地 暂存区 远端区
+今天完成的工作：今天做了项目页面的首页
+明天工作安排：明天抽空做一个项目的子页，好好听课
+今日不足：要尽量提高自的听课效率
+
